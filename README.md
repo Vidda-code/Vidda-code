@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm David Godfrey</h1>
 <h3 align="center">I am an Android Developer, I am passionate about creating innovative and user-friendly applications. I have a keen eye for design and occasionally work on UI/UX to enhance the overall user experience. I am always eager to learn new technologies and take on new challenges to enhance my skills. With a focus on delivering high-quality, efficient code, I am confident in my ability to make a valuable contribution to any development team. Let's connect and explore new opportunities.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif">
