@@ -1,4 +1,4 @@
-[![Hello, world](http://i.imgur.com/c7GmAJf.png)](https://github.com/mappum)]
+[![Hello, kotlin](http://i.imgur.com/c7GmAJf.png)](https://github.com/mappum)]
 <h1 align="center">Hi 👋, I'm David Godfrey</h1>
 <h3 align="center">I am an Android Developer, I am passionate about creating innovative and user-friendly applications. I have a keen eye for design and occasionally work on UI/UX to enhance the overall user experience. I am always eager to learn new technologies and take on new challenges to enhance my skills. With a focus on delivering high-quality, efficient code, I am confident in my ability to make a valuable contribution to any development team. Let's connect and explore new opportunities.</h3>
 <img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/4884082-Procrastination/attachments/10651251?mode=media">
